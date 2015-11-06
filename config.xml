@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<widget id="com.moodle.moodlemobile" version="2.4" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-  <name>FACETVirutal.M</name>
+<widget id="ar.edu.unt.cedite.facetvirtualmobile" version="2.4" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+  <name>FACETVirutal Mobile</name>
   <description>El app oficial de FACETVirtual</description>
   <author href="http://www.cedite.unt.edu.ar" email="ttorres@herrera.unt.edu.ar">Ticiano Torres Peralta</author>
   <content src="index.html"/>
