@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<widget id="ar.edu.unt.cedite.facetvirtualmobile" version="2.4" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="ar.edu.unt.cedite.facetvirtualmobile" version="2.6" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
   <name>FACETVirutal Mobile</name>
   <description>El app oficial de FACETVirtual</description>
   <author href="http://www.cedite.unt.edu.ar" email="ttorres@herrera.unt.edu.ar">Ticiano Torres Peralta</author>
@@ -15,6 +15,7 @@
   <preference name="BackupWebStorage" value="none"/>
   <preference name="SplashScreen" value="screen"/>
   <preference name="SplashScreenDelay" value="3000"/>
+  <preference name="KeyboardDisplayRequiresUserAction" value="false" />
   <feature name="StatusBar">
     <param name="ios-package" value="CDVStatusBar" onload="true"/>
   </feature>
